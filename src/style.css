@@ -1,0 +1,28 @@
+/* .hello {
+  font-size: 3em;
+  color: rgb(142, 136, 79);
+}
+#window {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+#sidebar {
+  display: flex;
+  flex-direction: column;
+  background-color: bisque;
+  align-items: center;
+
+}
+#tasksWindow {
+margin: 5px;
+
+}
+.task {
+
+}
+.sidebarWindow {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+
+} */
